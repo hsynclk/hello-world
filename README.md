@@ -1,2 +1,2 @@
 # hello-world
-Hello World exercise
+It is an Hello World experiment on Github.
